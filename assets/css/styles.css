@@ -1,0 +1,31 @@
+.jumbotron {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.panel-heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.table {
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+background-image: url(../images/train7.jpg);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.form-group{
+    color: black;
+
+}
+
+h3 {
+color: #ffA500;
+
+}
+
+.btn.btn-success {
+    color: #ffffff;
+   background-color: #ffA500;
+   border-color: #ffffff;
+
+}
