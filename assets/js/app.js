@@ -68,4 +68,3 @@ var config = {
       $("#age-display").html(snapshot.val().age);
       $("#comment-display").html(snapshot.val().comment);
   });
-});
